@@ -61,3 +61,8 @@ table tr:hover {
 ul {
     list-style-type: none;
   }
+
+
+body{
+    display: block;
+}
